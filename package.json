@@ -1,0 +1,11 @@
+{
+  "name": "ferry-timetable-notice-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ferry Timetable Notice Board: public pier timetable, disruption notices and vehicle-deck booking requests, with a staff console.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
