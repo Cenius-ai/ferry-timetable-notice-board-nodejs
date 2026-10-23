@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Ferry Timetable Notice Board">
+  <rect width="32" height="32" rx="8" fill="#13231f" />
+  <path d="M6 20.5h20l-2.6 5.2a3 3 0 0 1-2.7 1.7H11.3a3 3 0 0 1-2.7-1.7L6 20.5Z" fill="#3fbf86" />
+  <path d="M10 18.5V12h4v6.5M16 18.5V8h4v10.5" stroke="#f5fcfa" stroke-width="2" stroke-linecap="round" fill="none" />
+  <path d="M4.5 26.5c2 .9 3.4.9 5.5 0 2.1.9 3.4.9 5.5 0 2.1.9 3.4.9 5.5 0 2.1.9 3.4.9 5.5 0" stroke="#3fbf86" stroke-width="1.6" stroke-linecap="round" fill="none" opacity=".7" />
+</svg>
