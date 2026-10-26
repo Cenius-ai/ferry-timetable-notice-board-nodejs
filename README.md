@@ -74,7 +74,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-`install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. The Node.js codebase (46 files) is self-contained — no external services needed to evaluate it. Top-level layout: `data/`, `public/`, `tests/`. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+`install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. The Node.js codebase (33 files) is self-contained — no external services needed to evaluate it. Top-level layout: `data/`, `public/`, `tests/`. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
